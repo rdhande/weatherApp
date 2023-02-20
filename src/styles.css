@@ -1,0 +1,53 @@
+.weatherApp {
+  font-family: "Roboto", sans-serif;
+  margin: 60px;
+}
+
+.card {
+  margin: auto;
+}
+
+form {
+  width: auto;
+}
+
+input {
+  margin-right: 10px;
+}
+
+#searchbtn {
+  margin-right: 10px;
+}
+
+#currentbtn {
+  margin-right: 10px;
+}
+
+.current-location {
+  position: relative;
+  top: -10px;
+  left: 480px;
+}
+
+.current-weather {
+  margin: 30px auto;
+  width: auto;
+  position: absolute;
+  top: 30px;
+  left: 20px;
+}
+
+.current-weather h1,
+.current-weather img {
+  margin-right: 10px;
+  font-size: 50px;
+  font-weight: bolder;
+}
+
+.current-weather div {
+  font-size: 12px;
+}
+
+.btn-group {
+  margin-top: 25px;
+}
